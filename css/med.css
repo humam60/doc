@@ -1,0 +1,10 @@
+.scrollable {
+    height: 45.5rem;
+    overflow-y: scroll;
+}
+
+th{
+    text-align: left;
+}
+
+
